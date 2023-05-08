@@ -3,7 +3,7 @@
 Add your extension below using tags starting at 1000 and submit a pull-req.
 
 {|
-| Field Number || Extension Name || Field Name || Description
+| Field Number || Unisat Wallet || Unisat Wallet || Description
 |-
-| 1000 || [[https://example.com|(unassigned)]] || (unassigned) || (unassigned)
+| 1000 || [[https://unisat.io/|(unassigned)]] || (unassigned) || (unassigned)
 |}
